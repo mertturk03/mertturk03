@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://www.afyonbeykozsk.com/">
-    <img src="https://www.afyonbeykozsk.com/brand/logo.png" width="110" alt="Afyon Beykoz Spor Kulübü">
-  </a>
-
+﻿<div align="center">
   # Mert Türk
   **Afyon Beykoz Spor Kulübü · Kulüp Sahibi & Başkanı**
 
